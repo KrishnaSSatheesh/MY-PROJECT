@@ -1,7 +1,7 @@
 # MY-PROJECT
 The project focuses on the analysis of retail sales data using Python.It involves data cleaning, preprocessing, exploratory data analysis (EDA) and visualization to understand sales trends, customer purchasing behavior, and product performance.The project demonstrates how data-driven insights can support better decision-making in the retail sector.
 
-**🎯 Objectives**
+**🎯 OBJECTIVES**
 
 To clean and preprocess raw retail sales data
 
@@ -15,7 +15,7 @@ To evaluate product and category-wise performance
 
 To visualize key insights using graphs and charts
 
-**🛠 Tools & Technologies Used**
+**🛠 TOOLS USED**
 
 Python
 
@@ -27,7 +27,7 @@ NumPy
 
 Matplotlib
 
-**📊 Methodology**
+**📊 METHODOLOGY**
 
 Data Loading and Understanding
 
@@ -43,7 +43,7 @@ Time-based Sales Trend Analysis
 
 Data Visualization
 
-**🔍 Key Findings**
+**🔍 KEY FINDINGS**
 
 A few product categories and items contribute most of the total revenue
 
