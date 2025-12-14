@@ -3,52 +3,52 @@ The project focuses on the analysis of retail sales data using Python.It involve
 
 **🎯 OBJECTIVES**
 
-To clean and preprocess raw retail sales data
+* To clean and preprocess raw retail sales data
 
-To perform exploratory data analysis on sales transactions
+* To perform exploratory data analysis on sales transactions
 
-To identify sales trends and seasonal patterns
+* To identify sales trends and seasonal patterns
 
-To analyze customer purchasing behavior
+* To analyze customer purchasing behavior
 
-To evaluate product and category-wise performance
+* To evaluate product and category-wise performance
 
-To visualize key insights using graphs and charts
+* To visualize key insights using graphs and charts
 
 **🛠 TOOLS USED**
 
-Python
+* Python
 
-Jupyter Notebook
+* Jupyter Notebook
 
-Pandas
+* Pandas
 
-NumPy
+* NumPy
 
-Matplotlib
+* Matplotlib
 
 **📊 METHODOLOGY**
 
-Data Loading and Understanding
+* Data Loading and Understanding
 
-Data Cleaning (handling missing values and duplicates)
+* Data Cleaning (handling missing values and duplicates)
 
-Exploratory Data Analysis (EDA)
+* Exploratory Data Analysis (EDA)
 
-Descriptive Statistics
+* Descriptive Statistics
 
-Category-wise and Item-wise Analysis
+* Category-wise and Item-wise Analysis
 
-Time-based Sales Trend Analysis
+* Time-based Sales Trend Analysis
 
-Data Visualization
+* Data Visualization
 
 **🔍 KEY FINDINGS**
 
-A few product categories and items contribute most of the total revenue
+* A few product categories and items contribute most of the total revenue
 
-Sales show noticeable monthly variations, indicating seasonal trends
+* Sales show noticeable monthly variations, indicating seasonal trends
 
-Digital payment methods are more commonly used
+* Digital payment methods are more commonly used
 
-Presence of loyal and high-value customers
+* Presence of loyal and high-value customers
